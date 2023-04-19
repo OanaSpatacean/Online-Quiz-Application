@@ -13,7 +13,7 @@ View available quizzes: Students can view the available quizzes after logging in
 
 Take a quiz: After selecting a quiz, students can take the quiz and answer the questions. 
 
-See a summary of the quiz: 
+See a summary of the quiz: Students can view a summary of the quiz they have taken or are currently taking. The summary might include information such as the number of questions, the time limit, the score, and the correct and incorrect answers.
 
 View quiz results: After submitting the quiz, students can view their results and see their score. 
 
