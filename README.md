@@ -25,4 +25,4 @@ View quiz results: Instructors can view the quiz results of the students who hav
 Create a quiz: Instructors can create a new quiz by adding questions and answer choices. 
 
 # Error Handling
-Invalid credentials: If a student or instructor enters incorrect login credentials, an error message will be displayed, and they will not be able to access the features.
+Error if credentials are not valid: If a student or instructor enters incorrect login credentials, an error message will be displayed, and they will not be able to access the features.
