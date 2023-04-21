@@ -1,11 +1,10 @@
-package com.example.onlinequizapplication;
+package com.example.onlinequizapplication.controllers;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 import org.dizitart.no2.Nitrite;
-
 import java.io.IOException;
 
 public class HelloApplication extends Application {

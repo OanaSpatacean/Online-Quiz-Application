@@ -1,4 +1,4 @@
-package com.example.onlinequizapplication;
+package com.example.onlinequizapplication.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
