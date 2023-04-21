@@ -82,7 +82,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.onlinequizapplication/com.example.onlinequizapplication.HelloApplication
+                                com.example.onlinequizapplication/com.example.onlinequizapplication.controllers.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
