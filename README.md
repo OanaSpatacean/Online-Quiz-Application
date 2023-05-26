@@ -1,4 +1,5 @@
 # Online-Quiz-Application
+Not finished yet.
 A simple online quiz application that allows students to take quizzes and instructors to create and manage quizzes.
 
 The project is an application built in Java, using IntelliJ (JavaFX + Nitrite), Jira, and Git. It allows students to view and take available quizzes, view their quiz results, and instructors to create, edit and view quiz results. The application requires login credentials to access the features. The project includes a minimum of 4 major features and 2 minor features. Jira is used to manage the project's issues and track progress, while Git is used for version control.
